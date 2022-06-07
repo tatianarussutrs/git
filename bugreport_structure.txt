@@ -1,0 +1,30 @@
+Required fields
+
+1. Title
+2. Bug severity and priority
+- Bug severity: Blocker/Critical/Major/Minor/Trivial
+- Bug priority: High/Medium/Minor
+3. Description
+4. Environment:
+- Device manufacturer and model number
+- OS version
+- Application version
+- Network connectivity
+- Screen orientation
+- Browser
+5. Steps to reproduce
+6. Expected result
+7. Actual result
+8. Attachments:
+- Screenshot 
+- Video
+- Log-file
+
+Additional fields
+
+1. Unique report number (ID) 
+2. Author
+3. Assigned to
+4. The status that shows the current stage of working with the bug
+5. Incident type
+6. Creation date
