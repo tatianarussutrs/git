@@ -1,13 +1,13 @@
 
 1.In the local repository, create branches for:
 
-Postman
-Jmeter
-CheckLists
-Bug Reports
-SQL
-Charles
-Mobile Testing
+-Postman
+-Jmeter
+-CheckLists
+-Bug Reports
+-SQL
+-Charles
+-Mobile Testing
 
 2.Push all branches to the remote repository.
 
