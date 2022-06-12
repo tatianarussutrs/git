@@ -1,4 +1,4 @@
-HW GiT
+Homework for  GiT
 
 1.In the local repository, create branches for:
 
